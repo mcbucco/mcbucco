@@ -1,6 +1,6 @@
 ## Начинающий frontend-разработчик
 
-### Тестовые задания
+### Тестовые задания:
 
 [Todo manager](https://github.com/mcbucco/intern-mindbox-todo)
 
@@ -19,7 +19,7 @@
 ### Учебные проекты:
 
 - [Оно тебе надо](https://github.com/mcbucco/ono-tebe-nado)
-- [Посмотри в окно]()https://github.com/mcbucco/posmotri_v_okno
+- [Посмотри в окно](https://github.com/mcbucco/posmotri_v_okno)
 - [Сложно сосредоточиться](https://github.com/mcbucco/slozhno-sosredotochitsya)
 - [Закрывающий тег](https://github.com/mcbucco/zakrivayuschiy-teg-f)
 
