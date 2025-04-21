@@ -7,6 +7,8 @@
 Задачи: Todo-приложение с возможностью добавления, удаления дел, простановки отметки "выполнено", а также выбора между списком всех дел и (не)выполненных и удалением всех выполненных. 
 
 Стек: TypeScript | React | React Hooks
+
+Инструменты: Vite | Jest
 ***
 [Recipe book](https://github.com/mcbucco/Recipe-Book) | [Деплой](https://mcbucco.github.io/Recipe-Book)
 
