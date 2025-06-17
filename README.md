@@ -3,6 +3,7 @@
 
 ### Мини-проекты
 [Калькулятор](https://github.com/mcbucco/React-Calculator)
+
 Задачи: калькулятор с базовым набором функций
 
 Стек: TypeScript | React | React Hooks
