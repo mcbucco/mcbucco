@@ -1,6 +1,7 @@
 ## Начинающий frontend React-разработчик
 Стараюсь писать на TypeScript. Близок компонентный подход с разделением отображения и бизнес-логики
-
+***
+***
 ### Мини-проекты
 [Калькулятор](https://github.com/mcbucco/React-Calculator)
 
@@ -9,7 +10,8 @@
 Стек: TypeScript | React | React Hooks
 
 Инструменты: Vite | Ant Design
-
+***
+***
 ### Тестовые задания:
 
 [Todo manager](https://github.com/mcbucco/intern-mindbox-todo) | [Деплой](https://mcbucco.github.io/intern-mindbox-todo/)
@@ -25,6 +27,7 @@
 Задачи: вывод в виде карточек с изображениями контента, полученного с сервера (моковые данные). Реализованы пагинатор, фильтр, возможность поставить "лайк" / удалить карточку. Все данные хранятся и меняются в локальном Redux-хранилище
 
 Стек: TypeScript | React | React Router | Redux-tools
+***
 ***
 ### Учебные проекты:
 [Интернет-магазин «Stellar Burger»](https://github.com/mcbucco/stellar-burgers)
